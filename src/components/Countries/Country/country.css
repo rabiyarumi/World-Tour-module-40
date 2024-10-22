@@ -1,0 +1,16 @@
+.country {
+  border: 2px solid mediumorchid;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 10px;
+}
+.title {
+  color: mediumorchid;
+}
+.flag {
+  height: 50px;
+  text-align: center;
+}
+.visited {
+  background-color: darkgray;
+}

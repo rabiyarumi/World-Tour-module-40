@@ -1,0 +1,9 @@
+.countries-coutainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.visited-flag {
+  height: 50px;
+  margin: 10px;
+}
